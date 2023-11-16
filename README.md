@@ -2,6 +2,9 @@
 
 Itemizer is a web application that allows you to create a database with custom fields ready to go inside your browser, it contains search and tags to easily find your information.
 
+<img width="1072" alt="image" src="https://github.com/64lines/itemizer/assets/698147/14b6e22e-a417-437c-9267-65b57f2709da">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
