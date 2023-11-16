@@ -122,9 +122,9 @@ export default function TopBar({
             Configuration
           </Typography>
           <Typography sx={{ color: "white", mb: 2 }} variant="body1">
-            Write the fields you want to have on your itemizer separated by
+            Write the fields you want to have on your local database separated by
             commas (e.g "description, link, author"). Title and Tags fields 
-            come by default.
+            are included by default.
           </Typography>
           <TextField
             sx={{ mb: 2 }}
