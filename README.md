@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Itemizer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Itemizer is a web application that allows you to create a database with custom fields ready to go inside your browser, it contains search and tags to easily find your information.
 
 ## Available Scripts
 
